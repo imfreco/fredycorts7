@@ -1,11 +1,11 @@
 <h2> Hiii, I'm Fredy Cortés! <img src="https://avatars1.githubusercontent.com/u/42518806?s=460&u=9cc4f1a50f4ef8af241134bc56bf6900995720fa&v=4" width="50"></h2>
 <img align='right' src="https://avatars1.githubusercontent.com/u/42518806?s=460&u=9cc4f1a50f4ef8af241134bc56bf6900995720fa&v=4" width="230">
-<p><em>Systems Enginner at <a href="http://www.unb.br">Universidad de Pamplona</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer | Backend Developer | Node.js Developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Systems Enginner at <a href="http://www.unipamplona.edu.co/">Universidad de Pamplona</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer | Backend Developer | Node.js Developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: FredyCorts7](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/FredyCorts7)
-[![Linkedin: FredyCorts7](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/FredyCorts7/)
-[![GitHub FredyCorts7](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/FredyCorts7)
+[![Twitter: FredyCorts7](https://img.shields.io/twitter/follow/FredyCorts7?style=social)](https://twitter.com/FredyCorts7)
+[![Linkedin: FredyCorts7](https://img.shields.io/badge/-FredyCorts7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/FredyCorts7/)](https://www.linkedin.com/in/FredyCorts7/)
+[![GitHub FredyCorts7](https://img.shields.io/github/followers/FredyCorts7?label=follow&style=social)](https://github.com/FredyCorts7)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
