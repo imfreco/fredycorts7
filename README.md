@@ -1,4 +1,4 @@
-<h2> Hiii, I'm Fredy Cortés! <img src="https://avatars1.githubusercontent.com/u/42518806?s=460&u=9cc4f1a50f4ef8af241134bc56bf6900995720fa&v=4" width="50"></h2>
+<h2> Hi, I'm Fredy Cortés!</h2>
 <img align='right' src="https://avatars1.githubusercontent.com/u/42518806?s=460&u=9cc4f1a50f4ef8af241134bc56bf6900995720fa&v=4" width="230">
 <p><em>Systems Enginner at <a href="http://www.unipamplona.edu.co/">Universidad de Pamplona</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer | Backend Developer | Node.js Developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -14,13 +14,9 @@
 const thai = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "GEJ - Unipamplona",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      }
+  tools: [React, Redux, Node, Jest, Express.js, Nest.js],
+  architecture: ["MVC", "N Layers"],
+  techCommunities: ["GEJ - Unipamplona"]
 }
 ```
 
