@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2> Hiii, I'm Fredy Cortés! <img src="https://avatars1.githubusercontent.com/u/42518806?s=460&u=9cc4f1a50f4ef8af241134bc56bf6900995720fa&v=4" width="50"></h2>
+<img align='right' src="https://avatars1.githubusercontent.com/u/42518806?s=460&u=9cc4f1a50f4ef8af241134bc56bf6900995720fa&v=4" width="230">
+<p><em>Systems Enginner at <a href="http://www.unb.br">Universidad de Pamplona</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer | Backend Developer | Node.js Developer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**FredyCorts7/fredycorts7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: FredyCorts7](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/FredyCorts7)
+[![Linkedin: FredyCorts7](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/FredyCorts7/)
+[![GitHub FredyCorts7](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/FredyCorts7)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, Redux, Node, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "GEJ - Unipamplona",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      }
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+⭐️ From [@FredyCorts7](https://github.com/FredyCorts7)
