@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: FredyCorts7](https://img.shields.io/twitter/follow/FredyCorts7?style=social)](https://twitter.com/FredyCorts7)
-[![Linkedin: FredyCorts7](https://img.shields.io/badge/-FredyCorts7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/FredyCorts7/)](https://www.linkedin.com/in/FredyCorts7/)
+[![Linkedin: FredyCortes14](https://img.shields.io/badge/-FredyCortes14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fredycortes14/)](https://www.linkedin.com/in/fredycortes14/)
 [![GitHub FredyCorts7](https://img.shields.io/github/followers/FredyCorts7?label=follow&style=social)](https://github.com/FredyCorts7)
 
 
